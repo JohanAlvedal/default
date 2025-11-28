@@ -2253,5 +2253,71 @@
     "reason": "Request from author",
     "removal_type": "remove",
     "link": "https://github.com/hacs/integration/issues/4679"
+  },
+  {
+    "repository": "pantherale0/ha-familysafety",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4362"
+  },
+  {
+    "repository": "jm-cook/ha-havvarsel",
+    "reason": "Repository was added as appdaemon and then integration which are conflicting",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4441"
+  },
+  {
+    "repository": "regulad/hass-lacrosseview",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4589"
+  },
+  {
+    "repository": "ljmerza/ha-email-sensor",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4589"
+  },
+  {
+    "repository": "Ludy87/xplora_watch",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4599"
+  },
+  {
+    "repository": "mag1024/bosch-alarm-homeassistant",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4684"
+  },
+  {
+    "repository": "hekm77/reeder_dark_theme",
+    "reason": "Repository has been deleted.",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4694"
+  },
+  {
+    "repository": "peetereczek/ztm-stop-card",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4722"
+  },
+  {
+    "repository": "pantherale0/ha-nintendoparentalcontrols",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4722"
+  },
+  {
+    "repository": "peetereczek/ztm",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4722"
+  },
+  {
+    "repository": "TheOneOgre/govee-cloud",
+    "reason": "Repository is archived",
+    "removal_type": "remove",
+    "link": "https://github.com/hacs/default/pull/4745"
   }
 ]
